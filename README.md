@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Au Rello
+# 👋 Hi, I'm Aurello
 
 ### Full-Stack Developer · Backend Engineer · Cloud & Web3
 
